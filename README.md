@@ -1,4 +1,4 @@
-<img src="Img-ListaContato.png"> 
+<img src="Img-ListaContato.PNG"> 
 
 [React](https://reactjs.org/) é uma biblioteca JavaScript popular para construir interfaces de usuário.
 
