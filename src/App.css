@@ -1,5 +1,14 @@
-main {
-  text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+body{
+    background-color: rgb(2, 37, 67);
+}
+
+.titulo{
+    padding: 20px;
+    background-color: rgb(2, 37, 67);
+    color: #ffffff;
+}
+
+.formulario{
+    background-color: rgb(104, 142, 207);
+    color: #ffffff;
 }
